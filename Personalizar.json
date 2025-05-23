@@ -1,0 +1,6 @@
+{
+    "descricao": "```\n#{desc}```\n**<a:mundo:1060994974419779624> | Nome: __#{nome}__**\n**<:valor:1061001329042010132> | Preço: __R$#{preco}__**\n**<:estoque:1061014145178288249> | Estoque: __#{estoque}__**",
+   "botao": "Carrinho",
+   "titulo": "#{nome} | Produtos",
+   "rodape": "Para comprar clique no botão abaixo."
+}
